@@ -1,7 +1,7 @@
-group 'co.com.tsc.certification.gerramos'
+group 'german.ramos.perez.orange'
 version '1.0-SNAPSHOT'
 
-description = 'Test Automation TSC - Germán Saín Ramos Pérez'
+description = 'Test Automation Choucair - Germán Saín Ramos Pérez'
 apply plugin: 'groovy'
 apply plugin: 'java'
 apply plugin: 'eclipse'
