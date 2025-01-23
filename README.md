@@ -52,7 +52,7 @@ El proyecto sigue una estructura modular organizada según el patrón Screenplay
    Ejecute el simbolo del gestor de dependencia
 
 3.  **Archivos de Configuración:**
-   Verifique las propiedades de configuración en el archivo `serenity.conf`.
+   Verifique las propiedades de configuración en el archivo `serenity.properties`.
 
 ## Ejecución de Pruebas
 
