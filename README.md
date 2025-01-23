@@ -44,8 +44,8 @@ El proyecto sigue una estructura modular organizada según el patrón Screenplay
 
 1. **Clonar el Repositorio:**
    ```bash
-   git clone <https://github.com/gerramosdev/test_choucair.git>
-   cd <german.ramos.perez.orange>
+   git clone https://github.com/gerramosdev/test_choucair.git
+   cd german.ramos.perez.orange
    ```
 
 2. **Instalar Dependencias:**
